@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>data_driven_add_job</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>dd1fafd5-46c0-43a8-a56c-ad5dd459ec33</testSuiteGuid>
+   <testCaseLink>
+      <guid>a67252a6-cc14-43fd-99a4-a0f2f8d7f140</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC5.1_Add_Job_Titles</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>015818b5-c0fc-43bb-8c2e-ce65a640fa72</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data_add_job</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>015818b5-c0fc-43bb-8c2e-ce65a640fa72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>job_titles</value>
+         <variableId>fdfd73fc-1a45-4bd5-a298-28cc94eddf3c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>015818b5-c0fc-43bb-8c2e-ce65a640fa72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>jd</value>
+         <variableId>75833f39-25e4-4c17-a7c3-bf92f9712ebd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5db29fde-8a8a-477b-9cb7-8efe4b92fa52</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

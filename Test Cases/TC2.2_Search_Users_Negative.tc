@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2.2_Search_Users_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcdf8bc8-2f2a-462f-a911-b67939c15f76</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>93af278a-a498-4264-b6a7-592c01cafb83</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Adam'</defaultValue>
+      <description></description>
+      <id>93af278a-a498-4264-b6a7-592c01cafb83</id>
+      <masked>false</masked>
+      <name>search_users</name>
+   </variable>
+</TestCaseEntity>

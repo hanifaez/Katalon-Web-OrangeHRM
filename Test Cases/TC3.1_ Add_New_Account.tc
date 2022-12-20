@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC3.1_ Add_New_Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a169128a-3b04-453d-ad32-0c7133f8685d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39679acb-ceb2-4400-98af-576072ab59e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daea7c8e-8a53-4e8f-82f7-09706c0c194c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a78adbfa-1c9d-4850-bd15-5adc6d5642df</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Dominic'</defaultValue>
+      <description></description>
+      <id>39679acb-ceb2-4400-98af-576072ab59e0</id>
+      <masked>false</masked>
+      <name>emp_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'AtestUser'</defaultValue>
+      <description></description>
+      <id>daea7c8e-8a53-4e8f-82f7-09706c0c194c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Testing@123'</defaultValue>
+      <description></description>
+      <id>a78adbfa-1c9d-4850-bd15-5adc6d5642df</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

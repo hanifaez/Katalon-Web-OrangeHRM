@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Invalid username</description>
+   <name>TC1.1_ Login_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cee45e8a-c9ff-465e-85a4-6fadc08da3dd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5eb5a8f-a6b8-4649-b427-b57f8adc41eb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Adam'</defaultValue>
+      <description></description>
+      <id>a5eb5a8f-a6b8-4649-b427-b57f8adc41eb</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+</TestCaseEntity>

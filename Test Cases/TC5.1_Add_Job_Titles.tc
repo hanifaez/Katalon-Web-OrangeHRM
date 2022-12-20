@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC5.1_Add_Job_Titles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9c99172-7971-4065-8956-70d57202f3aa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fdfd73fc-1a45-4bd5-a298-28cc94eddf3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>75833f39-25e4-4c17-a7c3-bf92f9712ebd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5db29fde-8a8a-477b-9cb7-8efe4b92fa52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'IT support'</defaultValue>
+      <description></description>
+      <id>fdfd73fc-1a45-4bd5-a298-28cc94eddf3c</id>
+      <masked>false</masked>
+      <name>job_titles</name>
+   </variable>
+   <variable>
+      <defaultValue>'testing'</defaultValue>
+      <description></description>
+      <id>75833f39-25e4-4c17-a7c3-bf92f9712ebd</id>
+      <masked>false</masked>
+      <name>jd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Urgent'</defaultValue>
+      <description></description>
+      <id>5db29fde-8a8a-477b-9cb7-8efe4b92fa52</id>
+      <masked>false</masked>
+      <name>job_note</name>
+   </variable>
+</TestCaseEntity>
